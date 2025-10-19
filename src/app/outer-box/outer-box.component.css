@@ -1,0 +1,18 @@
+.segment {
+  background: #222;
+  transition: background 0.2s;
+}
+
+.segment.on {
+  background: red;
+}
+
+.horizontal {
+  width: 70px;
+  height: 15px;
+}
+
+.vertical {
+  width: 15px;
+  height: 70px;
+}

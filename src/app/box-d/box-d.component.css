@@ -1,0 +1,14 @@
+.digit {
+  position: relative;
+  width: 100px;
+  height: 180px;
+  background: #000;
+}
+
+.a { position: absolute; top: 0; left: 15px; }
+.b { position: absolute; top: 15px; right: 0; }
+.c { position: absolute; bottom: 15px; right: 0; }
+.d { position: absolute; bottom: 0; left: 15px; }
+.e { position: absolute; bottom: 15px; left: 0; }
+.f { position: absolute; top: 15px; left: 0; }
+.g { position: absolute; top: 80px; left: 15px; }
